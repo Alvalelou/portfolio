@@ -52,7 +52,6 @@ function App() {
     <h2>CONTACT</h2>
     <div className="contact">
       <a href="mailto:alva.arnaez.estrada@gmail.com">alva.arnaez.estrada@gmail.com</a>
-      <a href="tel:+4915563132433">+49 155 6313 2433</a>
     </div>
     </div>
   );
