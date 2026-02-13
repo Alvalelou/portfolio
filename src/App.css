@@ -47,6 +47,22 @@ p {
   padding: 20px 0;
 }
 
+.contact {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 40px;
+}
+
+.contact a {
+  color: #E0C9B4;
+  text-decoration: none;
+}
+
+.contact a:hover {
+  color: #BEB1E0;
+}
+
 iframe {
   border: 0;
 }
