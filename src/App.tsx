@@ -44,10 +44,10 @@ function App() {
     </div>
     <h2 className='bio-header'>BIO</h2>
     <p>
-        I'm Lana — a trans woman, Content Creator and Video Producer based in Berlin. I grew up in Lima studying music and composing songs nobody heard. Later came advertising and a Bachelor in business , picking up cameras somewhere in between and figuring out the rest as I went. Founded Montania Films and spent five years directing music videos, theater trailers and brand content. Before that, I produced work for brands like PlayStation, Jeep, and Apple at Vatio Productions.  At Berlin indie studio Maschinen Mensch, I made trailers and social content for Mother Machine.
+        Hi, I'm Lana — , Content Creator and Video Producer based in Berlin. I grew up in Lima studying music and composing songs nobody heard. Later came advertising and a Bachelor in business , picking up cameras somewhere in between and figuring out the rest as I went. Founded Montania Films and spent five years directing small music videos, theater trailers and brand content. Before that, I produced work for brands like PlayStation, Jeep, and Apple at Vatio Productions.  At Berlin indie studio Maschinen Mensch, I made trailers and social content for Mother Machine.
       </p>
       <h2>CURIOUS FACTS</h2>
-        <p>I stream on Twitch as LelouLavender were we Co-work, play cozy shooters, indie games or talk about cute and vulnerable stuff. Video games have been part of my life since childhood. My favorite is Final Fantasy IX. I'm such a gamer that I even figured out how to edit videos using a PS4 controller.
+        <p>I stream on Twitch as LelouLavender were we Co-work, play cozy shooters, indie games or talk about cute and vulnerable stuff.
       </p>
     <h2>CONTACT</h2>
     <div className="contact">
